@@ -1,0 +1,36 @@
+.footer{
+    background-color: rgba(0, 0, 0, 0.904);
+    width: 30vw;
+    text-align: center;
+    margin-top: 10px;
+    padding: 12px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: white;
+    border-radius: 12px;
+    font-family: "Oswald", sans-serif;
+}
+
+h4 {
+    border-bottom: 1px dotted white;
+    padding-bottom: 5px;
+    border-bottom: 20%;
+}
+
+.footerRecipe ul {
+    padding: 0;
+}
+.footerRecipe li {
+    text-align: justify;
+    list-style-type: none;
+
+}
+.footerRecipe {
+    width: fit-content;
+    text-align: justify;
+    margin: auto;
+}
+
+span {
+    padding-left: 10px;
+}

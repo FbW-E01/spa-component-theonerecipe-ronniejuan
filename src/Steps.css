@@ -1,0 +1,19 @@
+.steps {
+    background-color: rgba(0, 0, 0, 0.904);;
+    width: 30vw;
+    text-align: center;
+    margin-top: 10px;
+    padding: 12px;
+    color: white;
+    border-radius: 12px;
+    font-family: "Oswald", sans-serif;
+}
+.stepsList li {
+    padding: 2px;
+    text-align: justify;
+    list-style-type: decimal;
+}
+
+span {
+    padding-left: 10px;
+}
