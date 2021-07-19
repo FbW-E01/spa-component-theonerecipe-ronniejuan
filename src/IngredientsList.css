@@ -1,0 +1,22 @@
+ 
+.ingredients {
+    background-color: rgba(0, 0, 0, 0.904);
+    width: 30vw;
+    text-align: center;
+    margin-top: 10px;
+    padding: 12px;
+    color: white;
+    border-radius: 12px;
+    font-family: "Oswald", sans-serif;
+}
+
+.ingredientsList {
+    width: fit-content;
+    text-align: justify;
+    margin: auto;
+}
+
+ul {
+    list-style-type:disc;
+   
+}
